@@ -1,2 +1,2 @@
 # solidity-audit-reports
-This repository includes all audits, research papers, and other publications that I has done
+This repository contains all the audits I have conducted while working as an engineer for Arcadia Group. The original can be found at https://github.com/TheArcadiaGroup/publications/tree/main. .
